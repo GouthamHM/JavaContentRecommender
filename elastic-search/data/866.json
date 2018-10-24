@@ -1,0 +1,1 @@
+{"content": "If return statement is used inside finally, it overrides the return statement in the try-catch block.  For instance, the construct\n", "stemmed": "If return statement use insid final , overrid return statement try-catch block . for instanc , construct", "link": "https://en.wikibooks.org/wiki/Java_Programming/Keywords"}

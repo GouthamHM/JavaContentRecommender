@@ -1,0 +1,1 @@
+{"content": "int x = 10; => 10\nx = x + 10; => 20\nx = 2 * x; => 40\nx = x - 19; => 21\nx = x / 3; => 7\n", "stemmed": "int x = 10 ; = > 10 x = x + 10 ; = > 20 x = 2 * x ; = > 40 x = x - 19 ; = > 21 x = x / 3 ; = > 7", "link": "https://en.wikibooks.org/wiki/Java_Programming/Arithmetic_expressions"}

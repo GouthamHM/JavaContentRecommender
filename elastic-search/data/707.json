@@ -1,0 +1,1 @@
+{"content": "double Math.log1p(double) returns ln(parameter+1). It is recommended for small values.\n", "stemmed": "doubl math.log1p ( doubl ) return ln ( parameter+1 ) . It recommend small valu .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Mathematical_functions"}

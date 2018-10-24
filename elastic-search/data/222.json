@@ -1,0 +1,1 @@
+{"content": "\u00a0\u00a0private static int intValue(String data) {\n\u00a0\u00a0\u00a0\u00a0return Integer.parseInt(data);\n\u00a0\u00a0}\n", "stemmed": "privat static int intvalu ( string data ) { return integer.parseint ( data ) ; }", "link": "https://en.wikibooks.org/wiki/Java_Programming/Understanding_a_Java_Program"}

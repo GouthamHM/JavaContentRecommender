@@ -1,0 +1,1 @@
+{"content": "That is because \\u000a is Unicode for a new line, making the compiler think that you have added a new line when you haven't.\n", "stemmed": "that \\u000a unicod new line , make compil think ad new line n't .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Comments"}

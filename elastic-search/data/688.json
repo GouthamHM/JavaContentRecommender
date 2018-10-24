@@ -1,0 +1,1 @@
+{"content": "It's not exactly equivalent to two-dimensional arrays because the size of the sub-arrays may vary. The sub-array reference can even be null. Consider:\n", "stemmed": "It 's exactli equival two-dimension array size sub-array may vari . the sub-array refer even null . consid :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Arrays"}

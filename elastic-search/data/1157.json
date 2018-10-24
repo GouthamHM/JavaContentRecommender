@@ -1,0 +1,1 @@
+{"content": "When a type that is defined with generic (for example, Collection<T>) is not used with generics (for example, Collection) is called a raw type.\n", "stemmed": "when type defin gener ( exampl , collect < T > ) use gener ( exampl , collect ) call raw type .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Generics"}

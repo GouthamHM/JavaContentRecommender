@@ -1,0 +1,1 @@
+{"content": "The code inside the finally block will always be executed. This is also true for cases when there is an exception or even executed return statement in the try block.\n", "stemmed": "the code insid final block alway execut . thi also true case except even execut return statement tri block .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Keywords"}
