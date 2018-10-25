@@ -25,4 +25,7 @@ Using Elastisearch to recommend Java bases posts
               Query stems using elastic search and render top 10 recomendations based on scores.
               </li>
               </p>
+
+Start: ./start.sh
+Stop: ./stop.sh
  
