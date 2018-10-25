@@ -26,6 +26,6 @@ Using Elastisearch to recommend Java bases posts
               </li>
               </p>
 
-Start: ./start.sh
+Start: ./start.sh\
 Stop: ./stop.sh
  
