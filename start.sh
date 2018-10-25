@@ -1,4 +1,4 @@
-cd elastic-search;
+cd elastic-search
 npm install
 npm start &
 cd ..
