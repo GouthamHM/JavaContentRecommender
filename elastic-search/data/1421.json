@@ -1,1 +1,1 @@
-{"content": "The documentation can be generated in a specific folder (C:\\ProgDoc for example) with the following command:\n", "stemmed": "the document gener specif folder ( C : \\progdoc exampl ) follow command :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Javadoc"}
+{"content": "Exactly as the name sounds, an @Inherited annotation type is inherited by subclasses of an annotated type.\n", "stemmed": "exactli name sound , @ inherit annot type inherit subclass annot type .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Annotations/Meta-Annotations"}

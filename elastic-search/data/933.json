@@ -1,1 +1,1 @@
-{"content": "Please note: Because access modifiers are not handled at instance level but at class level, private members of an object are visible from other instances of the same class!\n", "stemmed": "pleas note : becaus access modifi handl instanc level class level , privat member object visibl instanc class !", "link": "https://en.wikibooks.org/wiki/Java_Programming/Keywords"}
+{"content": "A synchronized block is marked as:\n", "stemmed": "A synchron block mark :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Keywords"}

@@ -1,1 +1,1 @@
-{"content": "We need to create a class for each way of ordering. It has to implement the Comparator interface.\n", "stemmed": "We need creat class way order . It implement compar interfac .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Comparing_Objects"}
+{"content": "List the fields and methods of this class that can be renamed without changing or even knowing the client classes.\n", "stemmed": "list field method class renam without chang even know client class .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Scope"}

@@ -1,1 +1,1 @@
-{"content": "Syntax:\n", "stemmed": "syntax :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Keywords"}
+{"content": "because the type order is different. If both input parameters were type String, that would be a problem since the compiler would not be able to distinguish between the two:\n", "stemmed": "type order differ . If input paramet type string , would problem sinc compil would abl distinguish two :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Overloading_Methods_and_Constructors"}

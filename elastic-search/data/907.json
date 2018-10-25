@@ -1,1 +1,1 @@
-{"content": "Syntax:\n", "stemmed": "syntax :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Keywords"}
+{"content": "Static methods cannot call nonstatic methods. The this current object reference is also not available in static methods.\n", "stemmed": "static method call nonstat method . the current object refer also avail static method .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Keywords"}

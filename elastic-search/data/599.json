@@ -1,1 +1,1 @@
-{"content": "The second method involves a user-defined beginIndex and endIndex:\n", "stemmed": "the second method involv user-defin beginindex endindex :", "link": "https://en.wikibooks.org/wiki/Java_Programming/API/java.lang.String"}
+{"content": "That is because \\u000a is Unicode for a new line, making the compiler think that you have added a new line when you haven't.\n", "stemmed": "that \\u000a unicod new line , make compil think ad new line n't .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Comments"}

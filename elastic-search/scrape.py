@@ -22,14 +22,14 @@ html = requests.get(java_url)
 data = html.text
 
 soup = BeautifulSoup(data)
-link_list = []
+link_list = set()
 for h3 in soup.find_all('h3'):
     ul = h3.findNext('ul')
     for li in ul.find_all('li'):
         
         if len(li.find_all('a')):
             if (li.find_all('a')[-1]['href']).startswith('/wiki/Java_Programming/'):
-                link_list.append(origin+li.find_all('a')[-1]['href'])
+                link_list.update([origin+li.find_all('a')[-1]['href']])
 print(link_list)
 
 def create_json(content,file_no,link):
@@ -51,7 +51,6 @@ def create_json(content,file_no,link):
     stemmed_words = []
     for word in filtered_sentence:
          stemmed_words.append(porter_stemmer.stem(word))
-    print(stemmed_words)
     if len(stemmed_words):
         dict['stemmed']=u' '.join(stemmed_words)
         with codecs.open(str(dir)+"/"+str(file_no)+".json",'w+','utf-8') as json_file:

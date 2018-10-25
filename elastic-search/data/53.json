@@ -1,1 +1,1 @@
-{"content": "... and then you execute it:\n\n\n\n\n\n", "stemmed": "... execut :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Java_Overview"}
+{"content": "\nStack Trace is a list of method calls from the point when the application was started to the point where the exception was thrown. The most recent method calls are at the top.\n", "stemmed": "stack trace list method call point applic start point except thrown . the recent method call top .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Stack_trace"}

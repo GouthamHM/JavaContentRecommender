@@ -1,1 +1,1 @@
-{"content": "This program uses three separate reference types:\n", "stemmed": "thi program use three separ refer type :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Understanding_a_Java_Program"}
+{"content": "Objects that implement this interface can be used as keys in a sorted map or elements in a sorted set, without the need to specify a comparator.\n", "stemmed": "object implement interfac use key sort map element sort set , without need specifi compar .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Comparing_Objects"}

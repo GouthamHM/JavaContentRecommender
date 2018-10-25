@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "rm -rf data/*; node ./bin/www & python3 scrape.py; python3 scrape2.py; python3 adddocuments.py"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",

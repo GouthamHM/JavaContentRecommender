@@ -1,1 +1,1 @@
-{"content": "If port is not specified the default 1099 is used. The client will need to connect to this port to access the Registry.\n", "stemmed": "If port specifi default 1099 use . the client need connect port access registri .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Remote_Method_Invocation"}
+{"content": "When you compare a variable with a string literal, most of people would do that this way:\n", "stemmed": "when compar variabl string liter , peopl would way :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Preventing_NullPointerException"}

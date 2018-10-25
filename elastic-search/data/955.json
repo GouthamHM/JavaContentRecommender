@@ -1,1 +1,1 @@
-{"content": "Public static variable should not be used, as these become global variables that can be accessed from everywhere in the program. Global constants can be used, however. See below:\n", "stemmed": "public static variabl use , becom global variabl access everywher program . global constant use , howev . see :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Keywords"}
+{"content": "How the catch-blocks are evaluated see Catching Rule\n", "stemmed": "how catch-block evalu see catch rule", "link": "https://en.wikibooks.org/wiki/Java_Programming/Keywords"}

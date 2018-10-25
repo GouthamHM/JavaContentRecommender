@@ -1,1 +1,1 @@
-{"content": "However, exported remote objects passed as parameters are passed by remote reference.\n", "stemmed": "howev , export remot object pass paramet pass remot refer .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Remote_Method_Invocation"}
+{"content": "This means not doing things like:\n", "stemmed": "thi mean thing like :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Preventing_NullPointerException"}

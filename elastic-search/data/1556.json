@@ -1,1 +1,1 @@
-{"content": "Properties are often implemented with private instance variables, but this is not required.\n", "stemmed": "properti often implement privat instanc variabl , requir .", "link": "https://en.wikibooks.org/wiki/Java_Programming/JavaBeans"}
+{"content": "This code will compile but this code may corrupt the collection if the collection only contains strings:\n", "stemmed": "thi code compil code may corrupt collect collect contain string :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Generics"}

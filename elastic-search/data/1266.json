@@ -1,1 +1,1 @@
-{"content": "This string can later be extracted using various methods, as you can see in the code listing 6.2.\n", "stemmed": "thi string later extract use variou method , see code list 6.2 .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Throwing_and_Catching_Exceptions"}
+{"content": "The method is supposed to return a int but when a is negative or equal to 0, it returns nothing.\n", "stemmed": "the method suppos return int neg equal 0 , return noth .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Methods"}

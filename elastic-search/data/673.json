@@ -1,1 +1,1 @@
-{"content": "And then to run it, similarly:\n", "stemmed": "and run , similarli :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Packages"}
+{"content": "The code listing 3.6 tries to print all the arguments that have been passed to the program. However, if there not enough arguments, it will throw an exception.\n", "stemmed": "the code list 3.6 tri print argument pass program . howev , enough argument , throw except .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Loop_blocks"}

@@ -1,1 +1,1 @@
-{"content": "Question 3.5: Consider the following code:\n", "stemmed": "question 3.5 : consid follow code :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Variables"}
+{"content": "When in a non-static method of the outer class, you can directly use new InnerClass(), since the class instance is implied to be this.\n", "stemmed": "when non-stat method outer class , directli use new innerclass ( ) , sinc class instanc impli .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Nested_Classes"}

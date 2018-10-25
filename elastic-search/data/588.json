@@ -1,1 +1,1 @@
-{"content": "Comparing strings is not as easy as it may first seem. Be aware of what you are doing when comparing String's using ==:\n", "stemmed": "compar string easi may first seem . Be awar compar string 's use == :", "link": "https://en.wikibooks.org/wiki/Java_Programming/API/java.lang.String"}
+{"content": "Slash-star comments may also be placed between any Java tokens, though not recommended:\n", "stemmed": "slash-star comment may also place java token , though recommend :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Comments"}

@@ -1,1 +1,1 @@
-{"content": "Java is a strongly typed language, so a field in a class may be typed like this:\n", "stemmed": "java strongli type languag , field class may type like :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Generics"}
+{"content": "Note that after the assignment to result its value will not be changed if we assign different values to firstNumber or secondNumber, like in line 5.\n", "stemmed": "note assign result valu chang assign differ valu firstnumb secondnumb , like line 5 .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Statements"}

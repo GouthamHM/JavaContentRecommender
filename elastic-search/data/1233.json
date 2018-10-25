@@ -1,1 +1,1 @@
-{"content": "In the above example, the same operations are made with two different map implementations:\n", "stemmed": "In exampl , oper made two differ map implement :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Map"}
+{"content": "The unexpected results arise because '1' and '0' are converted twice. The expression is concatenated as such:\n", "stemmed": "the unexpect result aris '1 ' '0 ' convert twice . the express concaten :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Literals"}

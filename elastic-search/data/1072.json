@@ -1,1 +1,1 @@
-{"content": "Question 4.6: Which methods of the Question6 class will cause compile errors?\n", "stemmed": "question 4.6 : which method question6 class caus compil error ?", "link": "https://en.wikibooks.org/wiki/Java_Programming/Overloading_Methods_and_Constructors"}
+{"content": "Prior to Java 1.8: The implementer must declare same exception or its subclass.  \n", "stemmed": "prior java 1.8 : the implement must declar except subclass .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Checked_Exceptions"}
