@@ -28,7 +28,6 @@ class App extends Component {
        homeClicked:false
 }
 homeClicked =()=>{
-  console.log("Home Clicked")
   this.setState(
     {displayQuestion:false}
   );

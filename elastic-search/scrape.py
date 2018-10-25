@@ -30,7 +30,6 @@ for h3 in soup.find_all('h3'):
         if len(li.find_all('a')):
             if (li.find_all('a')[-1]['href']).startswith('/wiki/Java_Programming/'):
                 link_list.update([origin+li.find_all('a')[-1]['href']])
-print(link_list)
 
 def create_json(content,file_no,link):
     dict = {
@@ -45,8 +44,6 @@ def create_json(content,file_no,link):
     for w in word_tokens: 
         if w not in stop_words: 
             filtered_sentence.append(w)
-    #print(word_tokens)
-    #print(filtered_sentence)
     porter_stemmer = PorterStemmer()
     stemmed_words = []
     for word in filtered_sentence:
@@ -60,7 +57,6 @@ for ind,p in enumerate(soup.find_all('p')):
      path, dirs, files = next(os.walk(str(dir)))
      if p.text:
         create_json(p.text,len(files)+1,java_url)
-print(link_list )
 for link in link_list:
     html = requests.get(link)
     data = html.text

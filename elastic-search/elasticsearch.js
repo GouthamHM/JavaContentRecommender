@@ -37,7 +37,6 @@ function indexExists() {
 exports.indexExists = indexExists;
 
 function addDocument(document) {  
-    //console.log(document);
     return elasticClient.index({
         index: indexName,
         type: "document",

@@ -21,7 +21,3 @@ for file_name in files:
     }
 
         response = requests.request("POST", url, data=s, headers=headers)
-
-    print(file_name)
-# r = requests.post(url,
-#  data={'number': 12524, 'type': 'issue', 'action': 'show'})

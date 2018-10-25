@@ -2,7 +2,6 @@ import React from 'react';
 import Highlight from 'react-highlight'
 import {ListGroup, ListGroupItem,Button} from 'react-bootstrap'
 const Question=(props) =>{
-    console.log(props.resp);
     return (
         <div className="Question">
         <h3>Post</h3>

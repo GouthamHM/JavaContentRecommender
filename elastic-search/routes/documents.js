@@ -10,7 +10,6 @@ router.get('/suggest/:input', function (req, res, next) {
 
 /* POST document to be indexed */
 router.post('/', function (req, res, next) {  
-//console.log(req.headers);
   elastic.addDocument(req.body)
   .then(function (result) { res.json(result) })
   .catch(function(err){
