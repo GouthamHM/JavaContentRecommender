@@ -1,1 +1,0 @@
-{"content": "The classes Integer and String belongs to the package java.lang but they don't need to be imported as the java.lang package is implicitly imported in all classes.\n", "stemmed": "the class integ string belong packag java.lang n't need import java.lang packag implicitli import class .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Packages"}

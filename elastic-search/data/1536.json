@@ -1,1 +1,0 @@
-{"content": "But you will have ClassCastException at runtime again and you can't easily use your field. The solution is to use Generics.\n", "stemmed": "but classcastexcept runtim ca n't easili use field . the solut use gener .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Generics"}

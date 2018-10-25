@@ -1,1 +1,0 @@
-{"content": "In the above case Thread 1 operation is lost, because Thread 2 overwrites its value. We'd like Thread 2 to wait until Thread 1 finishes the operation. See below:\n", "stemmed": "In case thread 1 oper lost , thread 2 overwrit valu . We 'd like thread 2 wait thread 1 finish oper . see :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Basic_Synchronization"}

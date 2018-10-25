@@ -1,1 +1,0 @@
-{"content": "There are tools like FindBugs that parse your code and warn you about potential bugs. Most of the time, these tools detect possible null pointers.\n", "stemmed": "there tool like findbug pars code warn potenti bug . most time , tool detect possibl null pointer .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Preventing_NullPointerException"}

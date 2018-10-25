@@ -1,1 +1,0 @@
-{"content": "Floating-point math never throws exceptions. Dividing a non-zero value by 0 equals infinity. Dividing a non-infinite value by infinity equals 0.\n", "stemmed": "floating-point math never throw except . divid non-zero valu 0 equal infin . divid non-infinit valu infin equal 0 .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Primitive_Types"}

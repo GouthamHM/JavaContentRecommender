@@ -1,1 +1,0 @@
-{"content": "Both these objects appear as the same type at runtime (both ArrayList's). The generic type information is erased during compilation (type erasure). For example:\n", "stemmed": "both object appear type runtim ( arraylist 's ) . the gener type inform eras compil ( type erasur ) . for exampl :", "link": "https://en.wikibooks.org/wiki/Java_Programming/Generics"}

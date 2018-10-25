@@ -1,1 +1,0 @@
-{"content": "When in a non-static method of the outer class, you can directly use new InnerClass(), since the class instance is implied to be this.\n", "stemmed": "when non-stat method outer class , directli use new innerclass ( ) , sinc class instanc impli .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Nested_Classes"}

@@ -1,1 +1,0 @@
-{"content": "The method is supposed to return a int but at line 4, it returns c, which is a String.\n", "stemmed": "the method suppos return int line 4 , return c , string .", "link": "https://en.wikibooks.org/wiki/Java_Programming/Methods"}
